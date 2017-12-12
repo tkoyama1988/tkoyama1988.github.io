@@ -2,7 +2,7 @@
   "generator-reveal": {
     "presentationTitle": "Reveal.js and Yeoman is Awesomeness",
     "packageVersion": "0.0.0",
-    "revealTheme": "black",
+    "revealTheme": "solarized",
     "useSass": false,
     "deployToGithubPages": true,
     "githubUsername": "tkoyama1988",
